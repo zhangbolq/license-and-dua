@@ -21,19 +21,19 @@ If I am granted access to the PhysioNet Clinical Databases, I agree to the terms
   
 ---  
 
-My name:  
-My PhysioNetWorks username:  
-Telephone number, including country/area code (required):  
-Institution:  
-Title or position:  
-Street address:  
-City:  
-State/Province:  
-ZIP/postal code:  
-Country:  
+My name: Zhang Bo 
+My PhysioNetWorks username: zhangbolq 
+Telephone number, including country/area code (required): +8613963592007 
+Institution: The Second People's Hospital of Liaocheng 
+Title or position: Chief Physician 
+Street address: No.306,Jikang Street of Linqing 
+City: Liaocheng 
+State/Province: Shandong 
+ZIP/postal code:252600  
+Country: China 
   
-Name of human studies training course completed:  
-Date completed:  
+Name of human studies training course completed:CITI Program  
+Date completed: 31-July-2024 
   
 * Supervisor's name:   
 * Supervisor's telephone number:  
@@ -41,11 +41,11 @@ Date completed:
 * Supervisor's title:  
 (* information required for students and postdocs)   
   
-General research area for which the data will be used:   
+General research area for which the data will be used: This study aims to investigate the factors associated with adverse outcomes in patients presenting to the emergency department (ED) with traumatic injuries. By utilizing the comprehensive data available in MIMIC-IV-ED, including triage vitals, lab tests, and diagnosis codes, I intend to build a risk stratification tool. This tool is designed to assist clinicians in the ED in making more informed decisions regarding patient admission, monitoring, and treatment intensity.  
   
-Date of this agreement:   
+Date of this agreement:10-July—2026   
   
-[ ] I have attached a certificate of completion of a human subjects
+[√]I have attached a certificate of completion of a human subjects
 protections course. 
 
 ---    
